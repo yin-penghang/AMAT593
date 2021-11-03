@@ -1,2 +1,2 @@
-# AMAT593
-Notebooks for AMAT593 Practical Machine Learning
+# AMAT593 Practical Machine Learning
+Lecture notebooks for AMAT593 Practical Machine Learning
