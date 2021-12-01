@@ -1,2 +1,2 @@
 # AMAT593
-Python Notebooks for AMAT593 Practical Machine Learning
+Lecture Notebooks for AMAT593 Practical Machine Learning
